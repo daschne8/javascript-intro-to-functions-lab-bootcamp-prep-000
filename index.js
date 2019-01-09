@@ -15,7 +15,7 @@ function whisper(string){
 }
 
 function sayHiToGrandma(string){
-  if string.toUpperCase(){
+  if string.toUpperCase() === true{
   return 'Hi there!'
   }
   if string === 'I love you, Grandma.'{
